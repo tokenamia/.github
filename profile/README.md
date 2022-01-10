@@ -1,3 +1,3 @@
 # Tokenamia
 
-<p>Tokenize your world!</p>
+<p>Liquidity boost for naturally illiquid assets.</p>
