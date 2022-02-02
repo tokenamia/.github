@@ -1,3 +1,3 @@
 # Tokenamia
 
-<p>Liquidity boost for naturally illiquid assets.</p>
+<p>High-quality offers on real estate and other non-fungible products</p>
